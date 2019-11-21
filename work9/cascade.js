@@ -100,4 +100,8 @@ collegeSelect.onchange=function(){
     }else{
         classSelect.options.length=0;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 799447371f88073cdd8481716ab182fbac117951
